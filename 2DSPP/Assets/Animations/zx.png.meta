@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 3c9b3a087c414f94485f819b59da9d89
+timeCreated: 1456147581
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zx_0
+    21300002: zx_1
+    21300004: zx_2
+    21300006: zx_3
+    21300008: zx_4
+    21300010: zx_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zx_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 43
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zx_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 37
+        width: 44
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zx_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 48
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zx_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 90
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zx_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 179
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zx_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 126
+        height: 228
+      alignment: 9
+      pivot: {x: .413558841, y: .521886051}
+      border: {x: 0, y: 0, z: 38, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
