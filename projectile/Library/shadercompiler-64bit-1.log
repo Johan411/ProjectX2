@@ -1,0 +1,399 @@
+Base path: E:/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-9844
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=5811 outsize=4392 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1121 outsize=7173 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1121 outsize=10163 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1080 outsize=5377 kw=POINT SHADOWS_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1080 outsize=5962 kw=POINT SHADOWS_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: preprocess
+  insize=2823 outsize=1191 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1476 outsize=3841 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1476 outsize=2013 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1881 outsize=1534 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1881 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=2908 outsize=1230 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1929 outsize=1534 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1929 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1526 outsize=3841 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1526 outsize=2224 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=1373 outsize=611 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1068 outsize=1908 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1068 outsize=1883 kw= pd= ok=1
+Cmd: preprocess
+  insize=2250 outsize=312 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2242 outsize=1241 kw=_DEPTHTEX pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2242 outsize=2501 kw=_DEPTHTEX pd= ok=1
+Cmd: preprocess
+  insize=1326 outsize=604 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1028 outsize=1908 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1028 outsize=1688 kw= pd= ok=1
+Cmd: preprocess
+  insize=1968 outsize=794 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1480 outsize=1859 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1480 outsize=1989 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=1887 outsize=786 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1407 outsize=1859 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1407 outsize=1883 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=3827 outsize=2531 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1042 outsize=1006 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1042 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1004 outsize=3533 kw=SHADOWS_DEPTH _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1004 outsize=380 kw=SHADOWS_DEPTH _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: preprocess
+  insize=1406 outsize=644 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1067 outsize=1908 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1067 outsize=1794 kw= pd= ok=1
+Cmd: preprocess
+  insize=1849 outsize=757 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1398 outsize=1859 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1398 outsize=1883 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=2926 outsize=1248 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1929 outsize=1534 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1929 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1526 outsize=3841 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1526 outsize=2224 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=1898 outsize=768 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1436 outsize=1859 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1436 outsize=2013 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=5731 outsize=533 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5453 outsize=3411 kw=_BLUR_COLORS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5453 outsize=3654 kw=_BLUR_COLORS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5453 outsize=3386 kw=_BLUR_COLORS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5453 outsize=3654 kw=_BLUR_COLORS pd= ok=1
+Cmd: preprocess
+  insize=1936 outsize=797 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1445 outsize=1859 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1445 outsize=2013 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=1930 outsize=765 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1471 outsize=1859 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1471 outsize=1989 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: preprocess
+  insize=946 outsize=315 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=933 outsize=1241 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=933 outsize=900 kw= pd= ok=1
+Cmd: preprocess
+  insize=6432 outsize=5020 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1117 outsize=7173 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1117 outsize=10106 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1076 outsize=5377 kw=POINT SHADOWS_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1076 outsize=5889 kw=POINT SHADOWS_OFF _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: preprocess
+  insize=3834 outsize=2537 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1042 outsize=1006 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1042 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1004 outsize=3533 kw=SHADOWS_DEPTH _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1004 outsize=380 kw=SHADOWS_DEPTH _VERTEXCOLORMODE_NONE pd= ok=1
+Cmd: preprocess
+  insize=1977 outsize=1228 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1051 outsize=2086 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1051 outsize=1924 kw= pd= ok=1
+Cmd: preprocess
+  insize=2789 outsize=1168 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1466 outsize=3841 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1466 outsize=2013 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1871 outsize=1534 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1871 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=5273 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=5273 ok=1
+Cmd: compileCompute
+  api=15 insize=62 outsize=10109 ok=1
+Cmd: compileCompute
+  api=9 insize=62 outsize=10165 ok=1
+Cmd: compileCompute
+  api=4 insize=167 outsize=28701 ok=1
+Cmd: compileCompute
+  api=4 insize=167 outsize=28701 ok=1
+Cmd: compileCompute
+  api=15 insize=167 outsize=55473 ok=1
+Cmd: compileCompute
+  api=9 insize=167 outsize=55717 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=5273 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=5273 ok=1
+Cmd: compileCompute
+  api=15 insize=139 outsize=8185 ok=1
+Cmd: compileCompute
+  api=9 insize=139 outsize=8201 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=6765 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=6765 ok=1
+Cmd: compileCompute
+  api=15 insize=139 outsize=11461 ok=1
+Cmd: compileCompute
+  api=9 insize=139 outsize=11481 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=3489 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=3489 ok=1
+Cmd: compileCompute
+  api=15 insize=62 outsize=8137 ok=1
+Cmd: compileCompute
+  api=9 insize=62 outsize=8125 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=504 outsize=33945 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=504 outsize=33945 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=15 insize=504 outsize=75245 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=9 insize=504 outsize=74861 ok=1
+Cmd: compileCompute
+  api=4 insize=225 outsize=6161 ok=1
+Cmd: compileCompute
+  api=4 insize=225 outsize=6161 ok=1
+Cmd: compileCompute
+  api=15 insize=225 outsize=15745 ok=1
+Cmd: compileCompute
+  api=9 insize=225 outsize=15573 ok=1
+Cmd: preprocess
+  insize=5811 outsize=4392 ok=1
+Cmd: preprocess
+  insize=2823 outsize=1191 ok=1
+Cmd: preprocess
+  insize=2908 outsize=1230 ok=1
+Cmd: preprocess
+  insize=1373 outsize=611 ok=1
+Cmd: preprocess
+  insize=2250 outsize=312 ok=1
+Cmd: preprocess
+  insize=1326 outsize=604 ok=1
+Cmd: preprocess
+  insize=1968 outsize=794 ok=1
+Cmd: preprocess
+  insize=1887 outsize=786 ok=1
+Cmd: preprocess
+  insize=3827 outsize=2531 ok=1
+Cmd: preprocess
+  insize=1406 outsize=644 ok=1
+Cmd: preprocess
+  insize=1849 outsize=757 ok=1
+Cmd: preprocess
+  insize=2926 outsize=1248 ok=1
+Cmd: preprocess
+  insize=1898 outsize=768 ok=1
+Cmd: preprocess
+  insize=5731 outsize=533 ok=1
+Cmd: preprocess
+  insize=1936 outsize=797 ok=1
+Cmd: preprocess
+  insize=1930 outsize=765 ok=1
+Cmd: preprocess
+  insize=946 outsize=315 ok=1
+Cmd: preprocess
+  insize=6432 outsize=5020 ok=1
+Cmd: preprocess
+  insize=3834 outsize=2537 ok=1
+Cmd: preprocess
+  insize=1977 outsize=1228 ok=1
+Cmd: preprocess
+  insize=2789 outsize=1168 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=5273 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=5273 ok=1
+Cmd: compileCompute
+  api=15 insize=62 outsize=10109 ok=1
+Cmd: compileCompute
+  api=9 insize=62 outsize=10165 ok=1
+Cmd: compileCompute
+  api=4 insize=167 outsize=28701 ok=1
+Cmd: compileCompute
+  api=4 insize=167 outsize=28701 ok=1
+Cmd: compileCompute
+  api=15 insize=167 outsize=55473 ok=1
+Cmd: compileCompute
+  api=9 insize=167 outsize=55717 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=5273 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=5273 ok=1
+Cmd: compileCompute
+  api=15 insize=139 outsize=8185 ok=1
+Cmd: compileCompute
+  api=9 insize=139 outsize=8201 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=6765 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=6765 ok=1
+Cmd: compileCompute
+  api=15 insize=139 outsize=11461 ok=1
+Cmd: compileCompute
+  api=9 insize=139 outsize=11481 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=3489 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=3489 ok=1
+Cmd: compileCompute
+  api=15 insize=62 outsize=8137 ok=1
+Cmd: compileCompute
+  api=9 insize=62 outsize=8125 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=504 outsize=33945 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=504 outsize=33945 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=15 insize=504 outsize=75245 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=9 insize=504 outsize=74861 ok=1
+Cmd: compileCompute
+  api=4 insize=225 outsize=6161 ok=1
+Cmd: compileCompute
+  api=4 insize=225 outsize=6161 ok=1
+Cmd: compileCompute
+  api=15 insize=225 outsize=15745 ok=1
+Cmd: compileCompute
+  api=9 insize=225 outsize=15573 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=5273 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=5273 ok=1
+Cmd: compileCompute
+  api=15 insize=62 outsize=10109 ok=1
+Cmd: compileCompute
+  api=9 insize=62 outsize=10165 ok=1
+Cmd: compileCompute
+  api=4 insize=167 outsize=28701 ok=1
+Cmd: compileCompute
+  api=4 insize=167 outsize=28701 ok=1
+Cmd: compileCompute
+  api=15 insize=167 outsize=55473 ok=1
+Cmd: compileCompute
+  api=9 insize=167 outsize=55717 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=5273 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=5273 ok=1
+Cmd: compileCompute
+  api=15 insize=139 outsize=8185 ok=1
+Cmd: compileCompute
+  api=9 insize=139 outsize=8201 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=6765 ok=1
+Cmd: compileCompute
+  api=4 insize=139 outsize=6765 ok=1
+Cmd: compileCompute
+  api=15 insize=139 outsize=11461 ok=1
+Cmd: compileCompute
+  api=9 insize=139 outsize=11481 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=3489 ok=1
+Cmd: compileCompute
+  api=4 insize=62 outsize=3489 ok=1
+Cmd: compileCompute
+  api=15 insize=62 outsize=8137 ok=1
+Cmd: compileCompute
+  api=9 insize=62 outsize=8125 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=504 outsize=33945 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=504 outsize=33945 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=15 insize=504 outsize=75245 ok=1
+Cmd: compileCompute
+  error: 1 plat 4 at ComputeShader.cginc(4): integer modulus may be much slower, try using uints if possible.
+  api=9 insize=504 outsize=74861 ok=1
+Cmd: compileCompute
+  api=4 insize=225 outsize=6161 ok=1
+Cmd: compileCompute
+  api=4 insize=225 outsize=6161 ok=1
+Cmd: compileCompute
+  api=15 insize=225 outsize=15745 ok=1
+Cmd: compileCompute
+  api=9 insize=225 outsize=15573 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1004 outsize=3533 kw=SHADOWS_DEPTH _VERTEXCOLORMODE_ALBEDO pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1004 outsize=380 kw=SHADOWS_DEPTH _VERTEXCOLORMODE_ALBEDO pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1004 outsize=3776 kw=SHADOWS_DEPTH _ALPHABLEND_ON _VERTEXCOLORMODE_ALBEDO pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1004 outsize=1436 kw=SHADOWS_DEPTH _ALPHABLEND_ON _VERTEXCOLORMODE_ALBEDO pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1121 outsize=8139 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP _VERTEXCOLORMODE_ALBEDO pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1121 outsize=11121 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP _VERTEXCOLORMODE_ALBEDO pd= ok=1
