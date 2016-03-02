@@ -31,9 +31,16 @@ public class PlayerController : MonoBehaviour {
 	public int stopSound=0;
 	AudioSource audio;
 	public int size;
+	public GameObject player;
+	public GameObject deathParticle;
+	public float deathDelay=1.0f;
+	public Vector2 initPos;
+
 	// Use this for initialization
 	void Start () {
-	
+		initPos = transform.position;
+		player = this.gameObject;
+
 		animator = this.GetComponent<Animator> ();
 		audio = GetComponent<AudioSource>();
 		//audio.Play();
@@ -50,23 +57,53 @@ public class PlayerController : MonoBehaviour {
 	{
 		if (other.tag == "Hyd") {
 			Debug.Log ("dead");
-			Application.LoadLevel (0);
+
+			StartCoroutine("Dead1");
+
+			//this.enabled=true;
+
 		}
 		else if (other.tag == "enemy1") {
 			Debug.Log ("dead");
-			Application.LoadLevel (0);
+			StartCoroutine("Dead1");
+		//	Application.LoadLevel (0);
 		}
 		if (other.tag == "Finish") {
 			Debug.Log ("dead");
+
 			Application.LoadLevel (2);
 		}
 		if (other.tag == "Hyd1") {
-			Debug.Log ("dead");
-			Application.LoadLevel (2);
+			StartCoroutine("Dead1");
+					//Destroy (this.gameObject);
+			//Application.LoadLevel (1);
 		}
 	}
 
+	public IEnumerator Dead1()
+	{
+		Instantiate (deathParticle, transform.position, transform.rotation);
+		this.enabled = false;
+		//this.GetComponentsInChildren().enabled = false;
+		/*	if (player != null) {
+			Destroy (player);
+		}*/
+		foreach(var r in GetComponentsInChildren<Renderer>())
+			r.enabled = false;
 
+		yield return new WaitForSeconds (deathDelay);
+		this.enabled = true;
+
+		//Instantiate(player,initPos,Quaternion.identity);
+
+		//this.Renderer.enabled = true;
+		reload ();
+
+
+	}
+	public void reload()
+	{
+		Application.LoadLevel (1);}
 	// Update is called once per frame
 	void Update () {
 		//stopSound = 0;
