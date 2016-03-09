@@ -108,17 +108,23 @@
      <None Include="Assets\Fluvio\Shaders\Particles\Fluvio-Particles-Multiply.shader" />
      <None Include="Assets\Fluvio\Shaders\Particles\Fluvio-Particles-NoGrabPass-Multiply.shader" />
      <None Include="Assets\Fluvio\Shaders\Particles\Fluvio-Particles-Additive.shader" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
  <Reference Include="Cloo">
- <HintPath>E:/Unity Projects/projectile/Assets/Fluvio/_Main/Cloo.dll</HintPath>
+ <HintPath>E:/Unity Projects/ProjectX2/projectile/Assets/Fluvio/_Main/Cloo.dll</HintPath>
  </Reference>
  <Reference Include="Fluvio.Runtime">
- <HintPath>E:/Unity Projects/projectile/Assets/Fluvio/_Main/Fluvio.Runtime.dll</HintPath>
+ <HintPath>E:/Unity Projects/ProjectX2/projectile/Assets/Fluvio/_Main/Fluvio.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>E:/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
