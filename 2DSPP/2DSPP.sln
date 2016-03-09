@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
@@ -18,7 +17,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																																			GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																								GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -36,28 +35,6 @@ Global
 		$3.inheritsSet = Mono
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
-	EndGlobalSection
-
-EndGlobal
-=======
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{8F47D9B9-50EC-914D-9344-8B70B77EBA58}") = "2DSPP", "Assembly-CSharp.csproj", "{B045C52D-182D-D71D-5AD3-5124155666E8}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B045C52D-182D-D71D-5AD3-5124155666E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B045C52D-182D-D71D-5AD3-5124155666E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B045C52D-182D-D71D-5AD3-5124155666E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B045C52D-182D-D71D-5AD3-5124155666E8}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 																																																																																																											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
@@ -80,4 +57,3 @@ Global
 	EndGlobalSection
 
 EndGlobal
->>>>>>> origin/master
