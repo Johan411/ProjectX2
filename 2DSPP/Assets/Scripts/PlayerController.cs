@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour {
 
 	Animator animator;
 
-	public Vector2 jumpVector = new Vector2 (0,10);
+	public Vector2 jumpVector = new Vector2 (0,6);
 
 	public int cur_state = -1;
 
@@ -82,6 +82,7 @@ public class PlayerController : MonoBehaviour {
 		level.playerkill ();
 		yield return new WaitForSeconds (deathDelay);
 		level.reload ();
+		//yield return new WaitForSeconds (deathDelay);
 	}
 
 	// Update is called once per frame
