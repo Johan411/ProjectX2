@@ -1,0 +1,152 @@
+CUTSCENES
+
+1. Opening - Transition of individual frames (on click / keypress). [Comic strip style]
+
+Frame 1 - Sunny day. Blue Sky. Green Grass. Colorful. Nimbo walking (Front view).
+
+Frame 2 - Same as frame 1, viewed from side (standard 2D view)
+
+Frame 3 - Same view as frame 2. Nimbo reaches middle of frame.
+
+Frame 4 - Same view as frame 3. Right half overshadowed by clouds, left half still sunny.
+	  Nimbo in left half. Shadowy figure in right half (similar to google chrome
+	  incognito man).
+
+Frame 5 - Black BG. Whoosh! (Text, Big, Yellow) in center.
+
+Frame 6 - Black (Implies fade out-fade in)
+
+Frame 7 - Factory (Tutorial level BG). Nimbo flat on ground. Stars circlinh his head (confused).
+	  Text (in textbox) - "Awww... What.. The Hell...  Happe..ned?!"
+
+Frame 8 - Black (fade out) with text box - " What? Where? Where am I? It's dark... And are those machines?!"
+
+Frame 9 - Black with text box - " And what is that smell? That smell... It smells like..."
+
+Frame 10 - (fade in) Factory BG, Nimbo standing (as in the beginning of level) with text box
+		" ... AN ADVENTURE!!!"	
+
+2. Out of the factory (Optional?) - Zoom out of in-game camera
+
+(Fade in) Camera Zoomed on Nimbo, nothing inconspicuos is visible.
+
+Text box : "Woah... This.. This..."
+
+(Zoom out to normal game camera position)
+
+Text box : "... certainly looks like your average post-apocalyptic scenario!!!"
+
+3. The Murderous Mob - Convo - Bloated sprites and text boxes
+
+Nimbo : "Hello perfectly vague strangers! Mind telling me where I am?"
+
+Mob : "What the hell are you doin' out so late, kid?"
+
+Nimbo : "Um, adventure-ing?"
+
+Mob : " Oh!! An adventurer, eh? Haahhaha.. You looking to get yo'self killed?"
+
+Nimbo : "Killed? Why? What's out there?"
+
+Mob : " Oh, you're not from around here are ya, Mr. Adventurer?"
+
+Nimbo : "No, where I'm from, people talk without spitting in each others faces!"
+
+Mob : "Oh-ho! I'm kinda likin' ya, Mr. Adventurer! You have a name?"
+
+Nimbo : " It's John Doe. But Mr. Adventurer has a good ring to it too!"
+
+Mob : " Doe? John Doe? You're Doe?! You'll indeed get yo'self killed, Doe! And we'll be the ones to do it!"
+
+Nimbo : "Uh-oh! I think this has suddenly turned into an infinite runner game! Let's run!!"
+
+4. The Sage Stage - Convo - Bloated sprites and text boxes
+
+(Fade in)
+
+Nimbo : "Phew! What a murderous mob! Good thing that I now have the safety of this dark and mysterious crib!"
+
+Sage : "You're 3 seconds late! Must be temporal displacement!"
+
+Nimbo : "Whoa, that's a creepy voice!!"
+
+Sage : "When you've aged like me, I'd wager your voice sounds exactly like mine too!"
+
+Nimbo : "Then I'll make a special effort not to scare off people by inhabiting dark, creepy cribs!"
+
+Sage : " Aah! But you'll have little choice then! All that's left in this version of time are these small, dark shelters."
+
+Nimbo : " What... happened here?"
+
+Sage : "To put it bluntly, apocalypse."
+
+Nimbo : "Apocalypse?! Did I sleep through it?"
+
+Sage : "No, you skipped it."
+
+Nimbo : "What does that mean?"
+
+Sage : "You were thrown forward in time, John. Almost 50 years. This, is year 2066, or somewhere close to that... I think."
+
+Nimbo : "Ti..Time? This.. This is my future?!"
+
+Sage : "Yes, it is. Not what you hoped for, is it?"
+
+Nimbo : "So I don't get to be a revolutionary astronomer who'll finally discover aliens?!"
+
+Sage : "Do you really want to know?"
+
+Nimbo : "What difference does it make now? I'm stuck here anyway."
+
+Sage : "What if I told you... You could set this right?"
+
+Nimbo : "I'd call you crazy, unless you have a time machine lying around, hehe."
+
+Sage : "I do."
+
+Nimbo : "You're crazy."
+
+Sage : "I might be. But this crazy man is offering you a choice - reclaim your past or go back out there. Make the choice, John."
+
+(Two buttons : "Go Past", "Go Back")
+
+Case 'Go Back' - Sage : "Very Well! I'll see you in approximately fifteen minutes then!"
+
+Case 'Go Past' -
+
+Sage : "Good choice! There's a prerequisite to time travel, however."
+
+Nimbo : "Oh! 'Conditions Apply*', eh?"
+
+Sage : " More a safety precaution. Here, take these cortisol tablets. They help manage the stress time travel puts on your body. But..."
+
+Nimbo : "There's a 'but' too? You are terrible at really selling your idea, you know?!"
+
+Sage : "... But it can cause hallucinations... It probably will the first time!"
+
+Nimbo : " So it will cause me to have a dream? Huh! You really had me worried!"
+
+Sage : "Go on, swallow it then!"
+
+Nimbo : "Let's see what my inner demons are... "
+
+5. Exposition - text floating in the sky
+
+Now, look here, John. I'll tell you what happened. It was 2032. A promising young scientist had done it. "Finally!" He had screamed. "Time is now in my hands!".
+He'd done it, created the very first time-machine. At 10:47:33 am, on September 29, 2032 - that ill fated moment - he pressed the switch. The disturbance in the
+space-time continuum cause by it was so great, that time itself lost it's course. The ripples in space-time cause events so cataclysmic, the earth was subject to a
+mass extinction. The Magnetic field dwindled, creatures died, radiation rained down hard. And what you've seen, is what's left of the earth. All clocks stopped at that
+moment, they still show 10:47:33. That is the butterflies' wings that caused the storm. You, my boy, is the only one who can clip those wings. Stop him, save everyone,
+Save yourself.
+
+6. Press the button - Transition of individual frames (on click / keypress). [Comic strip style]
+
+Frame 1 - Nimbo on his knees on left, sage standing tall on the right. Text at the bottom : "Now you know what you must do."
+
+Frame 2 - Nimbo on getting up on left, sage standing tall on the right. Text at the bottom : "Why me?"
+
+Frame 3 - Nimbo standing at the centre, sage right next to him. Text at the bottom : "Time will tell."
+
+Frame 4 - Time machine in sage's hand, passing to Nimbo's. Text at the bottom : "Go, complete your adventure."
+
+Frame 5 - Nimbo presses the button on the time machine (Close up, only hand with time machine visible). Text at the bottom : "Time-jump!!!"
