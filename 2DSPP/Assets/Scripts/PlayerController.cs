@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		if (other.tag == "Hyd") {
-			Debug.Log ("dead");
+			Debug.Log ("dead12");
 			StartCoroutine("Dead1");
 			}
 		else if (other.tag == "enemy1") {
@@ -78,10 +78,12 @@ public class PlayerController : MonoBehaviour {
 	public IEnumerator Dead1()
 	{
 		Instantiate (deathParticle, transform.position, transform.rotation);
-		Debug.Log ("vannu");
+		Debug.Log ("Am here");
 		level.playerkill ();
+		Debug.Log ("Am here1");
 		yield return new WaitForSeconds (deathDelay);
-		level.reload ();
+		//level.reload ();
+		//Application.LoadLevel (Application.loadedLevel);
 		//yield return new WaitForSeconds (deathDelay);
 	}
 

@@ -17,17 +17,19 @@ public class LevelController : MonoBehaviour {
 	public IEnumerator reload()
 	{ 	
 		currLevel = Application.loadedLevel;
+		//Application.LoadLevel (currLevel);
 		yield return new WaitForSeconds (deathDelay);
-		Debug.Log ("ivideethi");
+
 				Application.LoadLevel (currLevel);
 
 	}
 	public void playerkill()
-	{
+	{Debug.Log ("ivideethi");
 		player = GameObject.FindGameObjectWithTag ("Player");
 		Destroy (player.GetComponent<SpriteRenderer>());
 		Destroy(player.GetComponent<Rigidbody2D>());
 		Destroy (playerScript);
+		Debug.Log ("ivideethi1");
 		StartCoroutine ("reload");
 
 	}

@@ -14,14 +14,14 @@ public class CameraController : MonoBehaviour {
 	public Vector3 minCameraPos;
 	public Vector3 maxCameraPos;
 	public bool bounds;
-
+	public TimeTravel timeTravel;
 	public float speed=2;
 
 	// Use this for initialization
 void Start () {
 		Player = GameObject.FindGameObjectWithTag ("Player");
 		//offset = transform.position - Player.transform.position;
-		
+		timeTravel = GameObject.FindObjectOfType<TimeTravel> ();
 	}
 	
 	// Update is called once per frame
@@ -46,10 +46,17 @@ void Start () {
 		float posY=Mathf.SmoothDamp(transform.position.y,Player.transform.position.y,ref velocity.y,smoothTimeY);
 			transform.position=new Vector3(posX,posY,transform.position.z);
 		if(bounds)
-		{
+		{if(!timeTravel.camera2)
 			transform.position=new Vector3(Mathf.Clamp(transform.position.x,minCameraPos.x,maxCameraPos.x),
 			                               Mathf.Clamp(transform.position.y,minCameraPos.y,maxCameraPos.y),
-			                               Mathf.Clamp(transform.position.z,minCameraPos.z,maxCameraPos.z));
+			                               Mathf.Clamp(-10,-10,-10));
 		}
+		if(bounds)
+		{if(timeTravel.camera2)
+			transform.position=new Vector3(Mathf.Clamp(transform.position.x,minCameraPos.x,maxCameraPos.x),
+			                               Mathf.Clamp(transform.position.y,minCameraPos.y,maxCameraPos.y),
+			                               Mathf.Clamp(35,35,35));
+		}
+
 		}
 }
