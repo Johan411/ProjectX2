@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: de20e5ca6d7efa941ba8e72fd81415d1
+timeCreated: 1456898160
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hyd smooth_0
+    21300002: hyd smooth_1
+    21300004: hyd smooth_2
+    21300006: hyd smooth_3
+    21300008: hyd smooth_4
+    21300010: hyd smooth_5
+    21300012: hyd smooth_6
+    21300014: hyd smooth_7
+    21300016: hyd smooth_8
+    21300018: hyd smooth_9
+    21300020: hyd smooth_10
+    21300022: hyd smooth_11
+    21300024: hyd smooth_12
+    21300026: hyd smooth_13
+    21300028: hyd smooth_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hyd smooth_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 662
+        width: 101
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 662
+        width: 98
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 662
+        width: 95
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 664
+        width: 97
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 662
+        width: 99
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 340
+        width: 102
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 340
+        width: 94
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 341
+        width: 101
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 341
+        width: 99
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 340
+        width: 102
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 105
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5
+        width: 96
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5
+        width: 104
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyd smooth_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 7
+        width: 105
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
