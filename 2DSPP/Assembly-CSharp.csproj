@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\Door.cs" />
      <Compile Include="Assets\Scripts\Enemy1.cs" />
      <Compile Include="Assets\Scripts\Fader.cs" />
+     <Compile Include="Assets\Scripts\FallingFoor.cs" />
      <Compile Include="Assets\Scripts\FloorController.cs" />
      <Compile Include="Assets\Scripts\LevelController.cs" />
      <Compile Include="Assets\Scripts\Parallaxing.cs" />
